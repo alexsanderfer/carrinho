@@ -17,8 +17,8 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 ## 📌 Ajustes e melhorias
 O site ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [] Adicionar Dark Mode (tema escuro);
-- [] Buscar dados em db;
-- [] Animação no menu;
-- [] Responsividade;
+- [ ] Adicionar Dark Mode (tema escuro);
+- [ ] Buscar dados em db;
+- [ ] Animação no menu;
+- [ ] Responsividade;
 ---

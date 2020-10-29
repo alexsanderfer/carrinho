@@ -18,6 +18,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 O site ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Adicionar Dark Mode (tema escuro);
+- [ ] Adicionar botão de "remover do carrinho";
 - [ ] Buscar dados em db;
 - [ ] Responsividade;
 

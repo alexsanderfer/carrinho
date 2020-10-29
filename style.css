@@ -1,0 +1,44 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+h2.title {
+    background-color: #069;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.carrinho-container {
+    display: flex;   
+    margin-top: 10px;
+}
+
+.produto {
+    width: 33.3%;
+    padding: 0 30px;
+}
+
+.produto img {
+    max-width: 100%;
+}
+
+.produto a {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    color: white;
+    background-color: #5fb382;
+    text-align: center;
+    text-decoration: none;
+}
+
+.carrinho-item {
+    max-width: 1200px;
+    margin: 10px auto;
+    padding-bottom: 10px;
+    border-bottom: 2px dotted #ccc;
+}
+
+.carrinho-item p {
+    font-size: 16px;
+    color: gray;
+}
